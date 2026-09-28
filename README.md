@@ -7,9 +7,10 @@ Built for a cashmere wholesaler in New England. In production.
 
 ![The review flow](docs/demo.gif)
 
-> The screenshots and the recording below are from the real tool running on the
-> real document, with the client's name, mark and letterhead painted out. The
-> figures are theirs and are left unattributed. Nothing here identifies them.
+> The screenshots and the recording below are from the real tool running on a
+> sanitised copy of the real document, with the client's name, mark and letterhead
+> painted out. The sales figures are invented (see the note on the screenshots
+> below). Nothing here identifies them.
 
 ---
 
